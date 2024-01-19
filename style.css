@@ -1,1 +1,11 @@
+body{
+    height: 100%;
+    margin: 0;
+    justify-content: center;
+    overflow-x: 0;
+}
 
+.h1{
+  color: red;
+  font-size: 40px;
+}
